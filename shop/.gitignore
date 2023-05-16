@@ -4,7 +4,7 @@
 .packages
 .pub/
 
-# .idea/
+.idea/
 .vagrant/
 .sconsign.dblite
 .svn/
